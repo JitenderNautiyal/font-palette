@@ -11,7 +11,7 @@ It showcases a collection of harmonious colors and typography styles designed fo
 - Minimal and aesthetic design layout  
 
 ## 🖼 Preview
-
+![App Screenshot]
 <img src="./img/bg.jpg" width="600" alt="Background Preview">
 
 ## 🛠️ Built With
