@@ -12,7 +12,7 @@ It showcases a collection of harmonious colors and typography styles designed fo
 
 ## 🖼 Preview
 ![App Screenshot]
-<img src="./img/bg.jpg" width="600" alt="Background Preview">
+<img src="./img/Screenshot.png" width="600" alt="Background Preview">
 
 ## 🛠️ Built With
 
