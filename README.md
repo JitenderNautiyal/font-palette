@@ -3,8 +3,6 @@
 A simple and elegant **Font Palette** webpage built using **HTML and CSS**.  
 It showcases a collection of harmonious colors and typography styles designed for UI inspiration and visual design reference.
 
----
-
 ## 🌈 Features
 
 - Five curated color palettes with HEX, RGB, and CMYK values  
@@ -12,13 +10,9 @@ It showcases a collection of harmonious colors and typography styles designed fo
 - Soft blurred background with color swatches  
 - Minimal and aesthetic design layout  
 
----
-
 ## 🖼 Preview
 
 <img src="bg.jpg" width="600" alt="Background Preview">
-
----
 
 ## 🛠️ Built With
 
@@ -26,15 +20,11 @@ It showcases a collection of harmonious colors and typography styles designed fo
 - **CSS3**
 - **Google Fonts (Playfair Display)**
 
----
-
 ## 🚀 Live Demo
 
 👉 [View Project on Vercel](https://font-palette-html.vercel.app/)
 
 *(Replace with your actual deployed URL once live)*
-
----
 
 ## 📁 Folder Structure
 
@@ -47,8 +37,6 @@ font-palette/
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ### 💡 Author
 
