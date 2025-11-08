@@ -1,0 +1,55 @@
+# 🎨 Font Palette
+
+A simple and elegant **Font Palette** webpage built using **HTML and CSS**.  
+It showcases a collection of harmonious colors and typography styles designed for UI inspiration and visual design reference.
+
+---
+
+## 🌈 Features
+
+- Five curated color palettes with HEX, RGB, and CMYK values  
+- Elegant typography using the **Playfair Display** font  
+- Soft blurred background with color swatches  
+- Minimal and aesthetic design layout  
+
+---
+
+## 🖼 Preview
+
+<img src="bg.jpg" width="600" alt="Background Preview">
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **Google Fonts (Playfair Display)**
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Project on Vercel](https://your-vercel-link.vercel.app)
+
+*(Replace with your actual deployed URL once live)*
+
+---
+
+## 📁 Folder Structure
+
+font-palette/
+│
+├── index.html
+├── bg.jpg
+└── README.md
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### 💡 Author
+
+Created with ❤️ by Jitender nautiyal(https://github.com/JitenderNautiyal)
